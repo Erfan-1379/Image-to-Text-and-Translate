@@ -1,0 +1,24 @@
+پایتون یک زیان برنامه‌نویسی شیءگرا, تفسیری, سطح بالاء و همه
+منظوره استء که خیدو قان روسوم آن را طراحی کرده‌استء و اولین
+ار در سال ۱۹۹۱ متتشر شده‌است. فلسقه اصلی طراحی پایتون
+«خوانایی بالای کده است و نویسه‌های قاصله خالی در آن معنادار
+هستند و مکرر استفاده می‌شوند. ویکی‌یدیا
+--------------------------------------------------
+جنگو یک چارچوب ترم‌افزاری تحت وب آزاد و متن‌یاز است که به زیان
+پایتون نوشته شده‌است و از معماری مدل-تما-قالب پیروی می‌کند.
+هدف اصلی جنگو ساخت آسان سایت‌های پیچیده و وابسته به
+
+دیتابیس است و بر پاية قابلیت استفادةٌ مجدد و قابل اتصال بودن
+اجزای مختلف, توسعةٌ سریع و اصل خودت را تکرار نکن طراحی
+شده‌است. ویکی‌پدیا
+
+--------------------------------------------------
+Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a
+simple but effective approach to object-oriented programming. Python's elegant syntax and dynamic typing,
+together with its interpreted nature, make it an ideal language for scripting and rapid application development in
+many areas on most platforms.
+--------------------------------------------------
+Django is a high-level Python web framework that encourages rapid development and clean, pragmatic
+design. Built by experienced developers, it takes care of much of the hassle of web development, so you can
+focus on writing your app without needing to reinvent the wheel. It’s free and open source.
+--------------------------------------------------
